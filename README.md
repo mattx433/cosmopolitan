@@ -1,7 +1,9 @@
 ![Cosmopolitan Honeybadger](usr/share/img/honeybadger.png)
 
 [![build](https://github.com/jart/cosmopolitan/actions/workflows/build.yml/badge.svg)](https://github.com/jart/cosmopolitan/actions/workflows/build.yml)
-# Cosmopolitan
+# Cosmopolitan (Build on Windows)
+
+**This is an (unsupported) fork that makes it possible to build Cosmopolitan natively on a Windows system.**
 
 [Cosmopolitan Libc](https://justine.lol/cosmopolitan/index.html) makes C
 a build-once run-anywhere language, like Java, except it doesn't need an
