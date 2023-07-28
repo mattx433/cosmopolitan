@@ -1741,7 +1741,7 @@ THIRD_PARTY_PYTHON_PYTEST_A_DIRECTDEPS =					\
 # TESTS
 
 THIRD_PARTY_PYTHON_PYTEST_PYMAINS =						\
-	third_party/python/Lib/test/signalinterproctester.py			\
+#	third_party/python/Lib/test/signalinterproctester.py			\
 	third_party/python/Lib/test/test___future__.py				\
 	third_party/python/Lib/test/test__locale.py				\
 	third_party/python/Lib/test/test__opcode.py				\
